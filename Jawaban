@@ -1,0 +1,31 @@
+Nama      : Rika Azwari
+kelas     : 5 Mio
+Nim       : 062040830528
+No. Absen : 03
+
+SOAL
+Apa itu git dan kegunaannya ?
+GIT adalah sebuah version control system yang telah digunakan oleh para developer untuk dapat mengembangkan software secara bersamaan. 
+Fungsi utama dari GIT adalah mengatur versi source code program dengan memberikan tanda baris serta code mana yang perlu ditambah ataupun diganti.
+
+Apa itu Github dan kegunaannya ?
+Github adalah situs web juga sebuah layanan cloud yang bisa membantu para pengguna untuk menyimpan,mengelola dan mengembangkan.
+kegunaanya,Didalam github kita bisa mengupload file,membuat file yang mana filenya bisa kita kelola dengan version control system punya github.
+
+Sebutkan istilah-istilah yang ada di Git dan jelaskan masing-massing istilah tersebut ?
+Push =push untuk menyimpan perubahan yang telah kita lakukan ke dalam sebuah repository yang berada di git server (remote) istilahnya mah diupload lah kedalam sebuah repository.
+pull =pull adalah menarik seluruh data perubahan yang telah dilakukan apabila kita tertinggal beberapa titik dibawah.
+fetch =fetch ini hampir sama seperti pull, fetch hanya mengambil perubahan tanpa merging kedalam branch yang aktif.
+branch =branch biasa disebut percabangan. atau kalo menurut saya lebih seperti folder didalam sebuah repository. branch tempat kita melakukan perubahan. biasanya default dari git adalah branch master. 
+remote =remote adalah tempat penyimpanan di server git.
+commit =sebelum melakukan push kita akan melakukan commit. commit tersebut yang akan menyimpan perubahan kita di local baru melakukan push ke server git.
+merge =merge adalah penggabungan code antara branch 1 dengan branch yang lainnya, contoh : kita melakukan perubahan pada branch develop lalu kita ingin mengupdate perubahan yang kita lakukan kedalam branch master.
+
+Sebutkan layanan selain Github ?
+Bitbucket
+SourceForge
+GitLab
+Kiln
+Codeplane
+CodePlex
+etc.
